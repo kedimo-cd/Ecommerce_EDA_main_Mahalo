@@ -124,4 +124,4 @@ A partir disso, poderão ter uma visão mais assertiva do business, e extrair li
 
 ## 7 Referências
 * O Dataset é de propriedade do autor do projeto.
-* A imagem utilizada é de uso livre e foi obtida no [Pexels](https://www.pexels.com/pt-br/foto/comercio-eletronico-ecommerce-e-commerce-compras-online-6667686/).
+* A imagem utilizada é de uso livre e foi obtida no [Pexels](https://www.pexels.com/pt-br/foto/adquirir-cartao-de-credito-cliente-comercio-eletronico-34577/).
