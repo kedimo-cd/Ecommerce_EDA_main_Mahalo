@@ -1,6 +1,6 @@
 # Mahalo E-Commerce EDA
 
-<img src="https://github.com/nortonvanz/Mahalo-Ecommerce-EDA/blob/main/images/ecommerce.jpg?raw=true" width=70% height=70% title="Mahalo-Ecommerce-EDA" alt="project_cover_image"/>
+<img src="https://github.com/kedimo-cd/Ecommerce_EDA_main_Mahalo/blob/main/imagens/ecommerce.jpg"/>
 
 Projeto de Insights a partir dos dados de vendas uma empresa de e-commerce, chamada Mahalo Holding.
 
