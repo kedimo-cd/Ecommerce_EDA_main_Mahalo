@@ -1,4 +1,4 @@
-# Mahalo E-Commerce EDA
+# E-Commerce Mahalo EDA
 
 <img src="https://github.com/kedimo-cd/Ecommerce_EDA_main_Mahalo/blob/main/imagens/ecommerce.jpg"/>
 
